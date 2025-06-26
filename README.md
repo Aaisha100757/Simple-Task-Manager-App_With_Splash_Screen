@@ -2,30 +2,38 @@
 In this version of the Simple Task Manager App, I’ve added something special — a splash screen that greets you every single time you launch the app!
 
 🌟 What is a Splash Screen?
-Imagine opening an app and instead of jumping straight into the main screen, you're welcomed with a smooth animation, a nice logo, and a loading spinner. That’s the splash screen — your app’s way of saying, “Hi there! I’m loading up for you.”
+Imagine opening an app and instead of jumping straight into the main screen, you're welcomed with a smooth animation, a nice logo, and a loading spinner. That’s the splash screen — your app’s way of saying,
+“Hi there! I’m loading up for you.”
 
 🧠 Why Splash Screen?
-Just like a good movie starts with a title scene, apps should open with something elegant too! A splash screen:
+Just like a good movie starts with a title scene, apps should open with something elegant too!
+A splash screen:
 
-Makes your app feel more professional and polished.
+🎨 Makes your app feel more professional and polished.
 
-Gives users visual feedback that the app is loading.
+⏳ Gives users visual feedback that the app is loading.
 
-Creates brand recognition with logos/colors.
+💼 Creates brand recognition with logos/colors.
 
 💡 What Changed?
-🔹 You can visit my other repo Simple-Task-Manager-App to see the original version, where the app launched directly into the login screen.
+🔹 You can visit my original repo here:
+Simple-Task-Manager-App – This version opens directly to the login screen.
 
-🔹 In this version, I added:
+🔹 In this enhanced version, I added:
 
-A beautiful splash screen with:
+✨ A beautiful splash screen with:
 
 A glowing app logo
 
-A loading spinner
+A smooth loading spinner
 
-Bright welcoming text
+Bright and welcoming text
 
-Smooth transition into the login screen after a few seconds.
+🔄 A smooth transition into the login screen after a few seconds
 
 Now the app feels alive every time you open it!
+
+🎥 Video Demo
+🔽 Watch the video below to see it in action!
+(https://drive.google.com/file/d/1OcIF5hoFJzOMd1ifvWq19M_kPo7v3v6t/view?usp=sharing)
+
